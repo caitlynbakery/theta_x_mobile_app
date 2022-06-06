@@ -1,4 +1,4 @@
-# THETA X Mobile App
+# THETA X Mobile App without State Management
 
 I used http requests to get the info output when the info button is pressed. The app will connect to the Ricoh THETA X camera and fetch the info data from it. I also added a state button and a take picture button. 
 
